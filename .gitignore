@@ -1,0 +1,14 @@
+# Ignore environment files and temp data
+.env
+__pycache__/
+*.log
+*.sqlite3
+*.db
+*.zip
+*.exe
+*.bak
+node_modules/
+venv/
+.DS_Store
+.idea/
+.vscode/
