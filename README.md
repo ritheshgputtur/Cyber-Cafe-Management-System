@@ -13,5 +13,5 @@ A web-based system to manage cyber cafe operations such as user sessions, billin
 - Backend: PHP  
 - Server: Apache   
 
-## 🎯 Objective
+## Objective
 To automate cyber cafe operations and reduce manual work.
